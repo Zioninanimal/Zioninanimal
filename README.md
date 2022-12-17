@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zioninanimal
+- 👀 I’m interested in NFT's and blockchain development
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: cosmicon.nft@ud.me
